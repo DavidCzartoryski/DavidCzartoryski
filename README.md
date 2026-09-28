@@ -12,7 +12,7 @@
 
 <p><img src="./map.svg" width="100%" alt="World map with the 23 countries David has visited in gold, and routes out of Boston to San Francisco and Warsaw." /></p>
 
-Hi! I'm David. I study Computer Science and Business Administration at Northeastern University in Boston 📍 and graduate in May 2027. Home base is split three ways: Boston, San Francisco, and Warsaw.
+Hi! I'm David. I study Computer Science and Business Administration at Northeastern University in Boston 📍 and graduate in December 2027. Home base is split three ways: Boston, San Francisco, and Warsaw. In 2026 I won 1st place among 250+ participants at the Microsoft x Northeastern AI Hackathon 🏆.
 
 The work that actually pulls me in is making things faster. Profiling a system until the bottleneck shows itself, then optimizing the code around it: latency, runtime, cost, load. Most of what I've shipped is some version of that same problem. A 5-second poll down to 120 ms, 70% off deployment time, 30% off query latency, and now straggler detection across GPU clusters.
 
@@ -27,7 +27,7 @@ My portfolio is a passport, boarding pass and theme song included. Take a look �
 <picture><source media="(prefers-color-scheme: dark)" srcset="./headers/02-flight-log.svg"><img src="./headers/02-flight-log-light.svg" width="100%" alt="02 Flight log. Every leg logged." /></picture>
 
 <table>
-<tr><td><code>BOS</code></td><td align="center"><img src="./logos/pawtograder.png" height="24" alt="Pawtograder"></td><td><a href="https://github.com/pawtograder"><b>Pawtograder</b></a></td><td>Software Engineer, autograding</td><td>Sep 2026 to now</td></tr>
+<tr><td><code>BOS</code></td><td align="center"><img src="./logos/pawtograder.png" height="24" alt="Pawtograder"></td><td><a href="https://github.com/pawtograder"><b>Pawtograder</b></a></td><td>Software Engineer, platform telemetry</td><td>Sep 2026 to now</td></tr>
 <tr><td><code>BOS</code></td><td align="center"><img src="./logos/mosaiq.png" height="24" alt="Mosaiq"></td><td><a href="https://github.com/mosaiq-software"><b>Mosaiq Software</b></a></td><td>Full-Stack Software Engineer</td><td>Jan to May 2026</td></tr>
 <tr><td><code>SFO</code></td><td align="center"><img src="./logos/summit.png" height="24" alt="Summit Partners"></td><td><a href="https://www.summitpartners.com/"><b>Summit Partners</b></a></td><td>DevOps Engineer Co-op</td><td>Jul to Dec 2025</td></tr>
 <tr><td><code>SWK</code></td><td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./logos/wca-dark.png"><img src="./logos/wca.png" height="24" alt="Whalley Computer Associates"></picture></td><td><a href="https://www.wca.com/"><b>Whalley Computer Associates</b></a></td><td>Network Engineer Intern</td><td>Jun 2023 to Aug 2024</td></tr>
@@ -71,7 +71,7 @@ network     TCP/IP · BGP · VLANs · routing and switching · ACLs · firewall 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./headers/05-arrivals.svg"><img src="./headers/05-arrivals-light.svg" width="100%" alt="05 Arrivals. Now landing." /></picture>
 
-If you're hiring for 2027, building something, or just passing through San Francisco, Boston, or Warsaw, my inbox is open. I'm looking at new-grad software engineering starting after May 2027, private equity and venture roles, and front-office, people-facing finance.
+If you're hiring new grads, building something, or just passing through San Francisco, Boston, or Warsaw, my inbox is open. I'm looking at new-grad software engineering starting after December 2027, private equity and venture roles, and front-office, people-facing finance.
 
 <div align="center">
 

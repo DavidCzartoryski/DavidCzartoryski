@@ -161,7 +161,7 @@ def hero():
                              cls="city", attrs=f' style="animation-delay:{d:.2f}s"'))
     card.append(f'<line x1="20" y1="146" x2="{CW - 20}" y2="146" stroke="{INK}" stroke-opacity="0.25" stroke-dasharray="3 3"/>')
     facts = [("PASSENGER", "CZARTORYSKI / D"), ("FLIGHT", "HH 2027"), ("GATE", "23"),
-             ("SEAT", "1A"), ("CLASS", "FOUNDER"), ("DEPARTS", "MAY 2027")]
+             ("SEAT", "1A"), ("CLASS", "FOUNDER"), ("DEPARTS", "DEC 2027")]
     cols = [20, 150, 250]  # the passenger name needs the widest column
     for i, (k, v) in enumerate(facts):
         cx, cy = cols[i % 3], 170 + (i // 3) * 40
