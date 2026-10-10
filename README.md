@@ -2,7 +2,7 @@
 
 <p><img src="./hero.svg" width="100%" alt="David Czartoryski. Software engineer and founder. Northeastern, Class of 2027. Boston, San Francisco, Warsaw." /></p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-davidczartoryski.com-D4A853?style=for-the-badge&labelColor=0B1020)](https://davidczartoryski.com) [![Résumé](https://img.shields.io/badge/R%C3%89SUM%C3%89-read-F3EAD8?style=for-the-badge&labelColor=0B1020)](https://davidczartoryski.com/resume/DavidCzartoryski_Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-3B5BB5?style=for-the-badge&labelColor=0B1020)](https://www.linkedin.com/in/davidczartoryski) [![Instagram](https://img.shields.io/badge/INSTAGRAM-%40dczar.ski-D63A2F?style=for-the-badge&labelColor=0B1020)](https://www.instagram.com/dczar.ski/) [![Email](https://img.shields.io/badge/EMAIL-reach%20out-2F7A4F?style=for-the-badge&labelColor=0B1020)](mailto:czartoryski.d@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-davidczartoryski.com-D4A853?style=for-the-badge&labelColor=0B1020)](https://davidczartoryski.com) [![Résumé](https://img.shields.io/badge/R%C3%89SUM%C3%89-read-F3EAD8?style=for-the-badge&labelColor=0B1020)](https://davidczartoryski.com/resume/DavidCzartoryski_Resume.pdf) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-3B5BB5?style=for-the-badge&labelColor=0B1020)](https://www.linkedin.com/in/david-czartoryski) [![Instagram](https://img.shields.io/badge/INSTAGRAM-%40dczar.ski-D63A2F?style=for-the-badge&labelColor=0B1020)](https://www.instagram.com/dczar.ski/) [![Email](https://img.shields.io/badge/EMAIL-reach%20out-2F7A4F?style=for-the-badge&labelColor=0B1020)](mailto:czartoryski.d@northeastern.edu)
 
 </div>
 
